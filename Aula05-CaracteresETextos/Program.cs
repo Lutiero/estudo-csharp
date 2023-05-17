@@ -18,7 +18,7 @@ class Program
         string cursos = @"Cursos disponíveis: 
     - C# 
     - Javascript 
-    - GO";
+    - Python";
         Console.WriteLine(cursos);
 
         Console.WriteLine("");
