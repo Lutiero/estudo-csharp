@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula09-Escopo", "Aula09-Esc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafio01", "Desafio01\Desafio01.csproj", "{0BE455CA-7FC5-4238-A23C-A2A53E9F84CD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula10-CalculaPoupanca", "Aula10-CalculaPoupanca\Aula10-CalculaPoupanca.csproj", "{A3C982B8-4285-4B1E-8F80-003C72C4A5C3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{0BE455CA-7FC5-4238-A23C-A2A53E9F84CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0BE455CA-7FC5-4238-A23C-A2A53E9F84CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0BE455CA-7FC5-4238-A23C-A2A53E9F84CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3C982B8-4285-4B1E-8F80-003C72C4A5C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3C982B8-4285-4B1E-8F80-003C72C4A5C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3C982B8-4285-4B1E-8F80-003C72C4A5C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3C982B8-4285-4B1E-8F80-003C72C4A5C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
