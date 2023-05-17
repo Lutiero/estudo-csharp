@@ -9,21 +9,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula02-CriandoVariaveis", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula03-CriandoVariaveisPontoFlutuante", "Aula03-CriandoVariaveisPontoFlutuante\Aula03-CriandoVariaveisPontoFlutuante.csproj", "{24246310-ACE4-4BC2-9390-A6871DA412F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula04-ConversaoEOutrosTipos", "Aula04-ConversaoEOutrosTipos\Aula04-ConversaoEOutrosTipos.csproj", "{2DD82047-AC98-460F-A9A3-EB6AC2AE6BD0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula04-ConversaoEOutrosTipos", "Aula04-ConversaoEOutrosTipos\Aula04-ConversaoEOutrosTipos.csproj", "{2DD82047-AC98-460F-A9A3-EB6AC2AE6BD0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula05-CaracteresETextos", "Aula05-CaracteresETextos\Aula05-CaracteresETextos.csproj", "{8DA4DC2E-52F5-4D5C-9728-053446D7EC05}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula05-CaracteresETextos", "Aula05-CaracteresETextos\Aula05-CaracteresETextos.csproj", "{8DA4DC2E-52F5-4D5C-9728-053446D7EC05}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula06-AtribuicoesDeVariaveis", "Aula06-AtribuicoesDeVariaveis\Aula06-AtribuicoesDeVariaveis.csproj", "{927FCB78-E99D-4754-8244-221D1973E9D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula06-AtribuicoesDeVariaveis", "Aula06-AtribuicoesDeVariaveis\Aula06-AtribuicoesDeVariaveis.csproj", "{927FCB78-E99D-4754-8244-221D1973E9D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula07-Condicionais", "Aula07-Condicionais\Aula07-Condicionais.csproj", "{51EC0C1D-C235-4B74-AC23-D69314716672}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula07-Condicionais", "Aula07-Condicionais\Aula07-Condicionais.csproj", "{51EC0C1D-C235-4B74-AC23-D69314716672}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula08-Condicionais02", "Aula08-Condicionais02\Aula08-Condicionais02.csproj", "{3C19EF6F-A6F7-4DB7-80BA-51099B489688}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula08-Condicionais02", "Aula08-Condicionais02\Aula08-Condicionais02.csproj", "{3C19EF6F-A6F7-4DB7-80BA-51099B489688}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula09-Escopo", "Aula09-Escopo\Aula09-Escopo.csproj", "{77AFBCC2-B2C5-438E-9E0B-1329DFFE0AA2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula09-Escopo", "Aula09-Escopo\Aula09-Escopo.csproj", "{77AFBCC2-B2C5-438E-9E0B-1329DFFE0AA2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafio01", "Desafio01\Desafio01.csproj", "{0BE455CA-7FC5-4238-A23C-A2A53E9F84CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Desafio01", "Desafio01\Desafio01.csproj", "{0BE455CA-7FC5-4238-A23C-A2A53E9F84CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula10-CalculaPoupanca", "Aula10-CalculaPoupanca\Aula10-CalculaPoupanca.csproj", "{A3C982B8-4285-4B1E-8F80-003C72C4A5C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula10-CalculaPoupanca", "Aula10-CalculaPoupanca\Aula10-CalculaPoupanca.csproj", "{A3C982B8-4285-4B1E-8F80-003C72C4A5C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula11-CalculaPoupancaComFor", "Aula11-CalculaPoupancaComFor\Aula11-CalculaPoupancaComFor.csproj", "{5878F2D6-611C-4F48-BE6C-B6EF2795BCC8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{A3C982B8-4285-4B1E-8F80-003C72C4A5C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3C982B8-4285-4B1E-8F80-003C72C4A5C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3C982B8-4285-4B1E-8F80-003C72C4A5C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5878F2D6-611C-4F48-BE6C-B6EF2795BCC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5878F2D6-611C-4F48-BE6C-B6EF2795BCC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5878F2D6-611C-4F48-BE6C-B6EF2795BCC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5878F2D6-611C-4F48-BE6C-B6EF2795BCC8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
