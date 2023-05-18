@@ -3,33 +3,33 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33712.159
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula01-OlaMundo", "Aula01-OlaMundo\Aula01-OlaMundo.csproj", "{D79DC406-39F6-466C-BE70-4E8C6BB632DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modulo01-Aula01-OlaMundo", "Aula01-OlaMundo\Modulo01-Aula01-OlaMundo.csproj", "{D79DC406-39F6-466C-BE70-4E8C6BB632DD}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula02-CriandoVariaveis", "Aula02-CriandoVariaveis\Aula02-CriandoVariaveis.csproj", "{4416A98F-983F-4FB0-9FFF-0452710E042A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modulo01-Aula02-CriandoVariaveis", "Aula02-CriandoVariaveis\Modulo01-Aula02-CriandoVariaveis.csproj", "{4416A98F-983F-4FB0-9FFF-0452710E042A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula03-CriandoVariaveisPontoFlutuante", "Aula03-CriandoVariaveisPontoFlutuante\Aula03-CriandoVariaveisPontoFlutuante.csproj", "{24246310-ACE4-4BC2-9390-A6871DA412F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modulo01-Aula03-CriandoVariaveisPontoFlutuante", "Aula03-CriandoVariaveisPontoFlutuante\Modulo01-Aula03-CriandoVariaveisPontoFlutuante.csproj", "{24246310-ACE4-4BC2-9390-A6871DA412F0}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula04-ConversaoEOutrosTipos", "Aula04-ConversaoEOutrosTipos\Aula04-ConversaoEOutrosTipos.csproj", "{2DD82047-AC98-460F-A9A3-EB6AC2AE6BD0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modulo01-Aula04-ConversaoEOutrosTipos", "Aula04-ConversaoEOutrosTipos\Modulo01-Aula04-ConversaoEOutrosTipos.csproj", "{2DD82047-AC98-460F-A9A3-EB6AC2AE6BD0}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula05-CaracteresETextos", "Aula05-CaracteresETextos\Aula05-CaracteresETextos.csproj", "{8DA4DC2E-52F5-4D5C-9728-053446D7EC05}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modulo01-Aula05-CaracteresETextos", "Aula05-CaracteresETextos\Modulo01-Aula05-CaracteresETextos.csproj", "{8DA4DC2E-52F5-4D5C-9728-053446D7EC05}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula06-AtribuicoesDeVariaveis", "Aula06-AtribuicoesDeVariaveis\Aula06-AtribuicoesDeVariaveis.csproj", "{927FCB78-E99D-4754-8244-221D1973E9D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modulo01-Aula06-AtribuicoesDeVariaveis", "Aula06-AtribuicoesDeVariaveis\Modulo01-Aula06-AtribuicoesDeVariaveis.csproj", "{927FCB78-E99D-4754-8244-221D1973E9D2}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula07-Condicionais", "Aula07-Condicionais\Aula07-Condicionais.csproj", "{51EC0C1D-C235-4B74-AC23-D69314716672}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modulo01-Aula07-Condicionais", "Aula07-Condicionais\Modulo01-Aula07-Condicionais.csproj", "{51EC0C1D-C235-4B74-AC23-D69314716672}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula08-Condicionais02", "Aula08-Condicionais02\Aula08-Condicionais02.csproj", "{3C19EF6F-A6F7-4DB7-80BA-51099B489688}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modulo01-Aula08-Condicionais02", "Aula08-Condicionais02\Modulo01-Aula08-Condicionais02.csproj", "{3C19EF6F-A6F7-4DB7-80BA-51099B489688}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula09-Escopo", "Aula09-Escopo\Aula09-Escopo.csproj", "{77AFBCC2-B2C5-438E-9E0B-1329DFFE0AA2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modulo01-Aula09-Escopo", "Aula09-Escopo\Modulo01-Aula09-Escopo.csproj", "{77AFBCC2-B2C5-438E-9E0B-1329DFFE0AA2}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Desafio01", "Desafio01\Desafio01.csproj", "{0BE455CA-7FC5-4238-A23C-A2A53E9F84CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modulo01-Desafio01", "Desafio01\Modulo01-Desafio01.csproj", "{0BE455CA-7FC5-4238-A23C-A2A53E9F84CD}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula10-CalculaPoupanca", "Aula10-CalculaPoupanca\Aula10-CalculaPoupanca.csproj", "{A3C982B8-4285-4B1E-8F80-003C72C4A5C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modulo01-Aula10-CalculaPoupanca", "Aula10-CalculaPoupanca\Modulo01-Aula10-CalculaPoupanca.csproj", "{A3C982B8-4285-4B1E-8F80-003C72C4A5C3}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula11-CalculaPoupancaComFor", "Aula11-CalculaPoupancaComFor\Aula11-CalculaPoupancaComFor.csproj", "{5878F2D6-611C-4F48-BE6C-B6EF2795BCC8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modulo01-Aula11-CalculaPoupancaComFor", "Aula11-CalculaPoupancaComFor\Modulo01-Aula11-CalculaPoupancaComFor.csproj", "{5878F2D6-611C-4F48-BE6C-B6EF2795BCC8}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula12-InvestimentoALongoPrazo", "Aula12-InvestimentoALongoPrazo\Aula12-InvestimentoALongoPrazo.csproj", "{BAF97FF3-CB43-42FD-B3C1-D790941377A4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modulo01-Aula12-InvestimentoALongoPrazo", "Aula12-InvestimentoALongoPrazo\Modulo01-Aula12-InvestimentoALongoPrazo.csproj", "{BAF97FF3-CB43-42FD-B3C1-D790941377A4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula13-EncadeandoFor", "Aula13-EncadeandoFor\Aula13-EncadeandoFor.csproj", "{2D141328-9C86-46E7-947C-161D64B1CE9C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modulo01-Aula13-EncadeandoFor", "Aula13-EncadeandoFor\Modulo01-Aula13-EncadeandoFor.csproj", "{2D141328-9C86-46E7-947C-161D64B1CE9C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
